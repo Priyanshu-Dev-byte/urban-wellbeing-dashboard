@@ -59,9 +59,7 @@ Our goal: make this data **actionable, accessible, and visual** through a smart,
 - Deployed-ready for cloud or local testing.
 
 ---
-
 ## 🗂️ Project Structure
-
 smartcity_fullstack/
 ├── backend/ # Node.js backend (API endpoints, data processing)
 │ ├── package.json
