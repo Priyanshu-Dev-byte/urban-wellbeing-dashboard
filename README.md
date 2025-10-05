@@ -60,24 +60,27 @@ Our goal: make this data **actionable, accessible, and visual** through a smart,
 
 ---
 ## 🗂️ Project Structure
+
+\`\`\`
 smartcity_fullstack/
-├── backend/ # Node.js backend (API endpoints, data processing)
-│ ├── package.json
-│ ├── server.js
-│ └── ...
+├── backend/                     # Node.js backend (API endpoints, data processing)
+│   ├── package.json
+│   ├── server.js
+│   └── ...
 │
-├── frontend/ # React + Vite + Tailwind UI
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── Dashboard.jsx
-│ │ │ ├── CityMap.jsx
-│ │ │ ├── TopMetrics.jsx
-│ │ │ ├── SideNav.jsx
-│ │ │ └── TransportOverview.jsx
-│ │ ├── App.jsx
-│ │ ├── main.jsx
-│ │ └── index.css
-│ ├── package.json
-│ └── vite.config.js
+├── frontend/                    # React + Vite + Tailwind UI
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Dashboard.jsx
+│   │   │   ├── CityMap.jsx
+│   │   │   ├── TopMetrics.jsx
+│   │   │   ├── SideNav.jsx
+│   │   │   └── TransportOverview.jsx
+│   │   ├── App.jsx
+│   │   ├── main.jsx
+│   │   └── index.css
+│   ├── package.json
+│   └── vite.config.js
 │
-└── README.md # You're reading it!
+└── README.md                    # You're reading it!
+\`\`\`
