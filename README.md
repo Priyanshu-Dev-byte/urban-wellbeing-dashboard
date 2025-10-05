@@ -61,7 +61,7 @@ Our goal: make this data **actionable, accessible, and visual** through a smart,
 ---
 ## 🗂️ Project Structure
 
-\`\`\`
+
 smartcity_fullstack/
 ├── backend/                     # Node.js backend (API endpoints, data processing)
 │   ├── package.json
@@ -83,4 +83,4 @@ smartcity_fullstack/
 │   └── vite.config.js
 │
 └── README.md                    # You're reading it!
-\`\`\`
+
