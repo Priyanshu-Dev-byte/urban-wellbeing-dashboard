@@ -1,7 +1,7 @@
 # 🌍 SmartCity Sentinel — NASA Space Apps Challenge 2025
 
 **Category:** Earth & Environment  
-**Team:** [Your Team Name]  
+**Team:** Quantum Squad  
 **Challenge Theme:** Data for Sustainable Urban Living  
 **Submission Year:** 2025  
 
